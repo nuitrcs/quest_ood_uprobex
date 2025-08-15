@@ -1,0 +1,11 @@
+---
+name: uProbeX
+icon: fa://desktop
+category: Interactive Apps
+subcategory: GUIs
+role: batch_connect
+description: |
+  This app will launch the [uProbeX] GUI on the [Quest cluster].
+
+  [uProbeX]: https://github.com/AdvancedPhotonSource/uProbeX
+  [Quest cluster]: https://www.it.northwestern.edu/departments/it-services-support/research/computing/quest/index.html
